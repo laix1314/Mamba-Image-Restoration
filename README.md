@@ -44,24 +44,31 @@
 **Efficient Visual State Space Model for Image Deblurring** [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kong_Efficient_Visual_State_Space_Model_for_Image_Deblurring_CVPR_2025_paper.pdf)
 
 
-
-
-
-
-
-
-
-
-
-
-
 # 【AAAI】
 ## 2024
 ## 2025
 
+**DCTMamba: Advancing JPEG Image Restoration Through Long-Sequence Modeling and Adaptive Frequency Strategy** [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/32854)
+
+**Sp3ctralMamba: Physics-Driven Joint State Space Model for Hyperspectral Image Reconstruction** [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/32653)
+
+
+
+
+
+
+
+
 # 【IJCAI】
 ## 2024
 ## 2025
+
+**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration** [[pdf]](https://arxiv.org/abs/2501.16583)
+
+**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Image Hyperspectral Super-Resolution** [[pdf]](
+https://arxiv.org/abs/2501.18500)
+
+
 
 # 【ICCV】
 ## 2024
@@ -69,6 +76,10 @@
 
 # 【ECCV】
 ## 2024
+
+**MambaIR: A Simple Baseline for Image Restoration with State-Space Model** [[pdf]](https://arxiv.org/abs/2501.16583)
+
+
 ## 2025
 
 
